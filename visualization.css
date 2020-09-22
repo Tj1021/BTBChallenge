@@ -1,0 +1,35 @@
+body {
+    background-color: #2b2b2b;
+    color: white;
+}
+body .header h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: Impact, Charcoal, sans-serif;
+    margin: 10px;
+}
+
+body .header p {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    vertical-align: top;
+    margin-top: 15px;
+}
+body .chart {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+footer .footer {
+    text-align: center;
+    padding-top: 50px;
+}
+
+footer .footer a {
+    text-decoration: none;
+    color: white;
+}

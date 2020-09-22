@@ -1,0 +1,7 @@
+# of attempts on Monday: 1761
+# of attempts on Tuesday: 1714
+# of attempts on Wednesday: 1804
+# of attempts on Thursday: 1734
+# of attempts on Friday: 1671
+# of attempts on Saturday: 118
+# of attempts on Sunday: 123
